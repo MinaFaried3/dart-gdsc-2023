@@ -11,7 +11,7 @@ void main() {
   * */
   //------------------------------------------
 
-  ///LIST
+  ///LIST 
   List nums = [1, 2, 3, 5, 6, 8];
   print(nums);
 
@@ -26,7 +26,7 @@ void main() {
 
   List<int> intList = [5, 4, 8, 6];
   print(intList);
-  print("first num int $intList = ${intList[0]}");
+  print("first num int $intList = ${intList[0]} ");
   print("second num int $intList = ${intList[1]}");
   print("third num int $intList = ${intList[2]}");
 

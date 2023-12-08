@@ -16,6 +16,7 @@ void main() {
   // foo = 'sd'; //error
 
   var boolean = true;
+
   var Int = 3;
   var Double = 3.4;
 

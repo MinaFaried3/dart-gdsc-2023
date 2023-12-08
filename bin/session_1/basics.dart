@@ -1,9 +1,8 @@
-
-void main(){
+void main() {
   print('mina faried');
 
   int x = 5;
-  print(x +5 );
+  print(x + 5);
 
   double doubleNum = 5.7;
   print(doubleNum);
@@ -14,18 +13,19 @@ void main(){
   int intNum = 5;
   // double d3 = intNum;
 
-  bool b1 =false;
+  bool b1 = false;
   print(b1);
 
   String name = 'mina';
   String lastname = "faried kldfkl "
-      "dsfjnkl"" sdnlkfjndsf ";
+      "dsfjnkl"
+      " sdnlkfjndsf ";
   String fullName = '''mina faried
   mf;ds
-  ldsmv
+  ldsmv  
   sf;mgl
-  sdlfm;
-  ,msfl';mldd
+   sdlfm;
+   ,msfl';mldd
   
   sl;dg
   d;lfmgl;m
@@ -34,8 +34,4 @@ void main(){
 
   Symbol variable = #fullName;
   print(variable);
-
-  
-
-
 }
