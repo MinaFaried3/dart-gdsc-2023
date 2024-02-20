@@ -19,7 +19,7 @@ class NoteBook {
     return this._prize;
   }
 
-  set name1(String name) {
+  set name(String name) {
     _name = name;
   
   }
